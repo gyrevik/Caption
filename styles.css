@@ -39,3 +39,18 @@
     letter-spacing: 1px;
     line-height: 20px;
 }
+
+#phoneNum {
+    position: relative;
+    left: 40px;
+    top: 134px;
+    width: 290px;
+    height: 20px;
+    color: #977124;
+    font-size: 14px;
+    font-family: NunitoSans-Light;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 20px;
+}
