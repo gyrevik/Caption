@@ -54,3 +54,17 @@
     letter-spacing: 1px;
     line-height: 20px;
 }
+
+#locationDetail {
+    position: relative;
+    left: 40px;
+    top: 154px;
+    width: 290px;
+    height: 146px;
+    color: #4b595d;
+    font-size: 16px;
+    font-family: NunitoSans-Regular;
+    font-weight: normal;
+    letter-spacing: 0px;
+    line-height: 24px;
+}
