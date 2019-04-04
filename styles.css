@@ -1,0 +1,41 @@
+#caption {
+    width: 370px;
+    height: 380px;
+    background: #ffffff;
+    box-shadow: 0px 5px 13px 0px #000000;
+    border-radius: 0px 0px 0px 0px;
+}
+
+#ourLocation {
+    position: relative;
+    left: 40px;
+    top: 40px;
+    bottom: 10px;
+    width: 164px;
+    height: 34px;
+    color: #112d36;
+    font-size: 26px;
+    font-family: IBMPlexSerif-Bold;
+    font-weight: bold;
+    letter-spacing: 0px;
+}
+
+#location {
+    color: #977124;
+    font-style: italic;
+}
+
+#address {
+    position: relative;
+    left: 40px;
+    top: 84px;
+    width: 290px;
+    height: 40px;
+    color: #64767c;
+    font-size: 14px;
+    font-family: NunitoSans-Light;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 20px;
+}
