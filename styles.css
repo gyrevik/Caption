@@ -1,4 +1,7 @@
 #caption {
+    position: relative;
+    top: 140px;
+    left: 135px;
     width: 370px;
     height: 380px;
     background: #ffffff;
